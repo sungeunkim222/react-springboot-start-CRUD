@@ -10,7 +10,7 @@ import java.util.List;
 public class ApiController {
     @GetMapping("/api/test")
     public List<String> Test() {
-        return Arrays.asList("테스트합니다.", "테스트테스트");
+        return Arrays.asList("테스트합니다.", "테스트테스트", "테스트테스트22");
     }
 
 }
