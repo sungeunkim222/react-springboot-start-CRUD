@@ -9,11 +9,11 @@
 
 - Git : 2.47.0.2
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a6a97394-be37-4463-b811-c14ba6506a09/23757c1f-af4c-47d6-b0c7-1f170b1658e3/image.png)
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a6a97394-be37-4463-b811-c14ba6506a09/814939db-e97d-4f6a-b027-fc354f621737/image.png)
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a6a97394-be37-4463-b811-c14ba6506a09/b22f4312-9e80-4715-8d57-279e31855d81/image.png)
+![image](https://github.com/user-attachments/assets/32d4cf7a-8693-4fa6-bbb8-d1ccb5e413f0)
+![image](https://github.com/user-attachments/assets/9cb8114e-7078-4069-a45f-3e2643312f0f)
+![image](https://github.com/user-attachments/assets/b3f9926a-a6b7-4be4-8639-d32d958515eb)
+
 
 참고사이트
-
 1. https://velog.io/@mzhong/React-Spring-Boot로-풀스택-맛보기
 2. https://velog.io/@mzhong/이어서-React-Spring-Boot-CRUD
